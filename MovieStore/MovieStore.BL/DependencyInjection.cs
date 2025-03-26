@@ -2,7 +2,7 @@
 using MovieStore.BL.Interfaces;
 using MovieStore.BL.Services;
 using MovieStore.DL;
-
+//napishi;
 namespace MovieStore.BL
 {
     public static class DependencyInjection
